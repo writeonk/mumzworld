@@ -1,0 +1,41 @@
+[INFO ] 2024-10-24 17:28:13.297 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:28:19.316 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:28:19.326 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:28:19.587 [Test worker] Sample - Verify Search for a product
+[INFO ] 2024-10-24 17:28:22.068 [Test worker] Sample - Verify Sign Up
+[INFO ] 2024-10-24 17:29:50.814 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:30:06.530 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:30:06.547 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:30:06.559 [Test worker] Sample - Verify Sign Up
+[INFO ] 2024-10-24 17:32:56.330 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:32:59.857 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:32:59.864 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:33:01.108 [Test worker] Sample - Verify Search for a product
+[INFO ] 2024-10-24 17:33:03.659 [Test worker] Sample - Verify Sign Up
+[INFO ] 2024-10-24 17:33:18.981 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:33:23.433 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:33:23.441 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:33:24.701 [Test worker] Sample - Verify Search for a product
+[INFO ] 2024-10-24 17:33:27.109 [Test worker] Sample - Verify Sign Up
+[INFO ] 2024-10-24 17:38:15.429 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:38:17.460 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:38:17.476 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:38:37.692 [Test worker] Sample - Verify URL
+[INFO ] 2024-10-24 17:38:43.418 [Test worker] Sample - Open Mumzworld
+[INFO ] 2024-10-24 17:38:43.430 [Test worker] Sample - Verify Checkout Flow
+[INFO ] 2024-10-24 17:38:44.706 [Test worker] Sample - Verify Search for a product
+[INFO ] 2024-10-24 17:38:45.860 [Test worker] Sample - Verify Add the product to bag
+[INFO ] 2024-10-24 17:38:50.000 [Test worker] Sample - Verify view bag page
+[INFO ] 2024-10-24 17:38:51.403 [Test worker] Sample - Verify Increase Qty
+[INFO ] 2024-10-24 17:38:51.422 [Test worker] Sample - Verify Increase Qty
+[INFO ] 2024-10-24 17:38:51.441 [Test worker] Sample - Verify Increase Qty
+[INFO ] 2024-10-24 17:38:51.466 [Test worker] Sample - Verify Increase Qty
+[INFO ] 2024-10-24 17:38:51.554 [Test worker] Sample - Verify Increase Qty
+[INFO ] 2024-10-24 17:38:52.654 [Test worker] Sample - Verify Proceed To CheckOut
+[INFO ] 2024-10-24 17:38:52.659 [Test worker] Sample - Verify Sign Up
+[INFO ] 2024-10-24 17:38:53.709 [Test worker] Sample - Verify Sing up button
+[INFO ] 2024-10-24 17:38:54.750 [Test worker] Sample - Verify First Name
+[INFO ] 2024-10-24 17:38:55.810 [Test worker] Sample - Verify Last Name
+[INFO ] 2024-10-24 17:38:56.897 [Test worker] Sample - Verify Email
+[INFO ] 2024-10-24 17:38:57.961 [Test worker] Sample - Verify Passcode
+[INFO ] 2024-10-24 17:38:59.035 [Test worker] Sample - Verify Register

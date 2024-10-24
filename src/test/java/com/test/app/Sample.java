@@ -1,7 +1,6 @@
 package com.test.app;
 
 import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.reporter.configuration.Theme;
 import common.TestBaseClass;
 import org.testng.annotations.Test;
 
@@ -21,7 +20,7 @@ public class Sample extends TestBaseClass {
     }
 
     @Test
-    public void tc01VerifyCheckoutFlow() throws InterruptedException {
+    public void tc01VerifyCheckoutFlow() {
 
         test = extent.createTest("Verify Checkout Flow", "Search for a product\n" +
                         "Add the product to bag\n" +
@@ -37,7 +36,6 @@ public class Sample extends TestBaseClass {
         test.log(Status.INFO, "Verify Search for a product");
         logger.info("Verify Search for a product");
 
-        Thread.sleep(3000);
         webdriver.clickOnButton(IConstants.btnAddToCart);
         test.log(Status.INFO, "Verify Add the product to bag");
         logger.info("Verify Add the product to bag");

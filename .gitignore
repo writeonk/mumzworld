@@ -46,3 +46,4 @@ bin/
 /gradlew.bat
 /settings.gradle
 /target/
+/reports/spark/

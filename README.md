@@ -32,9 +32,3 @@
 - Expand Report folder and you will find latest report there with latest date and time.
 - Click on Report and open with web-browser
 - Find logs in log folder
-
-### Running test suites from the command line
-
--  CD into the directory containing the test suite for the application you want. `cd com.novohq.app`
-- `Run $ gradle clean test` to run full suite
-- `Run $ gradle clean smokeTests` to run smoke testcases
